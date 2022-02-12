@@ -3,5 +3,6 @@ using namesoace std;
 int main(){
     cout<<"!st yearis pro";
     cout<<"!st yearis pro but not more than 2nd year"; 
+    cout<<" its hug  day ";
     return 0;
 }
